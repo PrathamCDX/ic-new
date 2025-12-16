@@ -1,0 +1,25 @@
+<svg width="102" height="102" viewBox="0 0 102 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="67" y="47" width="10" height="8" fill="#2D8DFF"/>
+<rect x="25" y="47" width="10" height="8" fill="#2D8DFF"/>
+<rect x="47" y="77" width="10" height="8" transform="rotate(-90 47 77)" fill="#2D8DFF"/>
+<rect x="47" y="35" width="10" height="8" transform="rotate(-90 47 35)" fill="#299AFF"/>
+<rect x="50" y="77" width="10" height="2" transform="rotate(-90 50 77)" fill="#297FFE"/>
+<rect x="50" y="35" width="10" height="2" transform="rotate(-90 50 35)" fill="#297FFE"/>
+<circle cx="50.5" cy="88.5" r="9" stroke="#3B98FF" stroke-width="9"/>
+<rect x="67" y="50" width="10" height="2" fill="#297FFE"/>
+<circle cx="88.5" cy="50.5" r="9" stroke="#3B98FF" stroke-width="9"/>
+<circle cx="50.5" cy="13.5" r="9" stroke="#3B98FF" stroke-width="9"/>
+<rect x="25" y="50" width="10" height="2" fill="#297FFE"/>
+<circle cx="51" cy="51" r="12.5" stroke="#3B98FF" stroke-width="9"/>
+<circle cx="13.5" cy="50.5" r="9" stroke="#3B98FF" stroke-width="9"/>
+<circle cx="50.5" cy="88.5" r="7.5" stroke="#317EF7" stroke-width="6"/>
+<circle cx="88.5" cy="50.5" r="7.5" stroke="#317EF7" stroke-width="6"/>
+<circle cx="50.5" cy="13.5" r="7.5" stroke="#317EF7" stroke-width="6"/>
+<circle cx="51" cy="51" r="11" stroke="#317EF7" stroke-width="6"/>
+<circle cx="13.5" cy="50.5" r="7.5" stroke="#317EF7" stroke-width="6"/>
+<circle cx="50.5" cy="88.5" r="6" stroke="#3590FF" stroke-width="3"/>
+<circle cx="88.5" cy="50.5" r="6" stroke="#3590FF" stroke-width="3"/>
+<circle cx="50.5" cy="13.5" r="6" stroke="#3590FF" stroke-width="3"/>
+<circle cx="51" cy="51" r="9.5" stroke="#3590FF" stroke-width="3"/>
+<circle cx="13.5" cy="50.5" r="6" stroke="#3590FF" stroke-width="3"/>
+</svg>

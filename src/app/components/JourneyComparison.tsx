@@ -5,7 +5,7 @@ export default function JourneyComparison() {
     return (
         <section className="relative flex flex-col items-center w-full bg-black py-24 overflow-hidden">
             {/* Top heading */}
-            <div className="relative w-[85%] z-10 text-center">
+            <div className="relative  z-10 text-center">
                 <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
                     <span>₹10L</span>
                     <span className="text-blue-500 mx-2">→</span>
