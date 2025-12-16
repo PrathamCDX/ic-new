@@ -62,7 +62,7 @@ export default function StatsTrustSection() {
     return (
         <section className="relative w-full bg-black py-24 flex flex-col items-center overflow-hidden">
             {/* Radial glow */}
-            <div className="relative z-10 px-6  w-[85%]">
+            <div className="relative z-10 px-6 ">
                 {/* Heading */}
                 <h2 className="text-center text-5xl font-medium text-white tracking-tight leading-tight">
                     Trusted by 2,500+ professionals
