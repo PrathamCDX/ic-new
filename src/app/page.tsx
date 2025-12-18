@@ -5,6 +5,9 @@ import StatsTrustSection from "./components/StatsTrustSection";
 import Roadmap from "./components/Roadmap";
 import MeetYourInstructors from "./components/MeetYourInstructors";
 import StudentSuccessStories from "./components/StudentSuccessStories";
+import TrainingModules from "./components/TrainingModules";
+import CohortSection from "./components/CohortSection";
+import CommunitySection from "./components/CommunitySection";
 
 export default function Home() {
   return (
@@ -18,6 +21,9 @@ export default function Home() {
           <Roadmap />
           <MeetYourInstructors />
           <StudentSuccessStories />
+          <TrainingModules />
+          <CohortSection />
+          <CommunitySection />
         </div>
       </div>
     </div>
