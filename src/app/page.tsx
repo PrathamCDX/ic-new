@@ -27,7 +27,7 @@ export default function Home() {
       <InterviewCallHero />
       <HeroMarque />
       <div className="w-full flex flex-col items-center ">
-        <div className="w-85/100">
+        <div className="w-full lg:w-250  ">
           <StatsTrustSection />
           <JourneyComparison />
           <Roadmap />

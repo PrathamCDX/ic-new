@@ -9,7 +9,7 @@ export default function RoleMatchedMentors() {
             <div className="w-full rounded-2xl ">
 
             <div className="text-center mb-10">
-                <div className="text-7xl font-base tracking-tight text-white">
+                <div className="text-7xl font-light tracking-tighter text-white">
                     Meet Your Role-Matched Mentors
                 </div>
                 <div className="text-3xl my-3 text-white/70 font-light">
